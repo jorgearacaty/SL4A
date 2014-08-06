@@ -69,4 +69,3 @@ while 1:
   if not 'which' in response or response['which'] != 'positive': sys.exit()
 
 # -----------------------------
-
