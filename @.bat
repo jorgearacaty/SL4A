@@ -7,6 +7,7 @@ echo --------------------------------------------------
 
 git add @.bat
 git add README.md
+git add  allQuina.py
 
 git commit -m "jorgearacaty" 
 git push -u origin master 
