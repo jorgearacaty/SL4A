@@ -1,10 +1,8 @@
 ﻿# -------------------------------------
 # --- Python para Android (SL4A).
-# --- Calcula palpites da Quina,
+# --- allQuina.py - calcula palpites da Quina,
 # --- de acordo com as distribuicoes de cada dezena.
-# --- jorgearacaty.
-# --- criado em, 31 jul 2014 - 0916.
-# --- modificado em, 6 ago 2014 - 1839.
+# --- jorgearacaty, 7 ago 2014 - 1513.
 # -------------------------------------
 
 import android
